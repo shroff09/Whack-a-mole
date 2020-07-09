@@ -16,14 +16,6 @@ array[y].style.backgroundImage="url('download.jfif')";
    },2500) ;  
 }
 
-/*function clear(random){
-  setTimeout(()=>{
-    const end = document.createElement("h1").innerHTML('Game ends');
-    random();
-  },10000);
-}*/
-
-
 //const box = document.getElementById('ff1');
  
 butn.addEventListener("click",random);
